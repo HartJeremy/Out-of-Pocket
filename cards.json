@@ -1,11 +1,11 @@
 {
   "lines": [
     {
-      "text": "I like my ___ like I like my ___.",
+      "text": "Finish this line: I like my ___ like I like my ___.",
       "blanks": 2
     },
     {
-      "text": "Describe me like a ___ reviewer.",
+      "text": "Describe yourself like a ___ reviewer.",
       "blanks": 1
     },
     {
@@ -17,15 +17,23 @@
       "blanks": 1
     },
     {
+      "text": "Make ___ sound like office gossip.",
+      "blanks": 1
+    },
+    {
       "text": "Write a warning label for ___.",
       "blanks": 1
     },
     {
-      "text": "I trust ___ like I trust ___.",
+      "text": "Pitch ___ like a terrible commercial.",
+      "blanks": 1
+    },
+    {
+      "text": "Finish this line: I trust ___ like I trust ___.",
       "blanks": 2
     },
     {
-      "text": "My personality is basically ___ with ___.",
+      "text": "Explain your personality as ___ with ___.",
       "blanks": 2
     },
     {
@@ -41,15 +49,15 @@
       "blanks": 1
     },
     {
-      "text": "Describe ___ like a five-star disaster.",
+      "text": "Review ___ like a five-star disaster.",
       "blanks": 1
     },
     {
-      "text": "I avoid ___ like I avoid ___.",
+      "text": "Finish this line: I avoid ___ like I avoid ___.",
       "blanks": 2
     },
     {
-      "text": "My love life is just ___ wearing ___.",
+      "text": "Describe your love life as ___ wearing ___.",
       "blanks": 2
     },
     {
@@ -57,11 +65,67 @@
       "blanks": 1
     },
     {
-      "text": "This feels less like ___ and more like ___.",
+      "text": "Explain friendship using ___.",
+      "blanks": 1
+    },
+    {
+      "text": "Make ___ sound like a true crime episode.",
+      "blanks": 1
+    },
+    {
+      "text": "Review ___ like you regret buying it.",
+      "blanks": 1
+    },
+    {
+      "text": "Finish this line: I need ___ like I need ___.",
       "blanks": 2
     },
     {
-      "text": "Describe ___ like you\u2019re legally required to defend it.",
+      "text": "Describe marriage using only ___.",
+      "blanks": 1
+    },
+    {
+      "text": "Turn ___ into a questionable compliment.",
+      "blanks": 1
+    },
+    {
+      "text": "Make ___ sound like it belongs in HR paperwork.",
+      "blanks": 1
+    },
+    {
+      "text": "Explain stress as ___ handling ___.",
+      "blanks": 2
+    },
+    {
+      "text": "Describe yourself as if powered by ___.",
+      "blanks": 1
+    },
+    {
+      "text": "Compare Monday morning to ___.",
+      "blanks": 1
+    },
+    {
+      "text": "Make ___ sound like forbidden knowledge.",
+      "blanks": 1
+    },
+    {
+      "text": "Explain adulthood as ___ plus ___.",
+      "blanks": 2
+    },
+    {
+      "text": "Turn ___ into a fake inspirational quote.",
+      "blanks": 1
+    },
+    {
+      "text": "Describe ___ like a bad dating profile.",
+      "blanks": 1
+    },
+    {
+      "text": "Explain why this feels less like ___ and more like ___.",
+      "blanks": 2
+    },
+    {
+      "text": "Defend ___ like you’re legally required to.",
       "blanks": 1
     },
     {
@@ -117,7 +181,7 @@
       "blanks": 1
     },
     {
-      "text": "Explain ___ like you\u2019re already in trouble for it.",
+      "text": "Explain ___ like you’re already in trouble for it.",
       "blanks": 1
     },
     {
@@ -134,6 +198,46 @@
     },
     {
       "text": "Describe ___ like the cops just left.",
+      "blanks": 1
+    },
+    {
+      "text": "Apologize for ___ without meaning it.",
+      "blanks": 1
+    },
+    {
+      "text": "Sell ___ to someone who has given up.",
+      "blanks": 1
+    },
+    {
+      "text": "Make ___ sound like a suspicious side hustle.",
+      "blanks": 1
+    },
+    {
+      "text": "Describe ___ like a product that should be recalled.",
+      "blanks": 1
+    },
+    {
+      "text": "Turn ___ into a fake legal defense.",
+      "blanks": 1
+    },
+    {
+      "text": "Explain ___ like it happened at a family barbecue.",
+      "blanks": 1
+    },
+    {
+      "text": "Make ___ sound like a town meeting complaint.",
+      "blanks": 1
+    },
+    {
+      "text": "Describe ___ like a restaurant you would never return to.",
+      "blanks": 1
+    },
+    {
+      "text": "Turn ___ into a terrible pickup line.",
+      "blanks": 1
+    },
+    {
+      "text": "Make ___ sound like a text you should delete.",
       "blanks": 1
     }
   ],
@@ -393,7 +497,7 @@
     "Include a terrible metaphor",
     "Make it sound like a product recall",
     "Start with First of all",
-    "End with and that\u2019s on me",
+    "End with and that’s on me",
     "Include a fake law firm",
     "Make it sound like local news",
     "Make it sound like a bad apology",
