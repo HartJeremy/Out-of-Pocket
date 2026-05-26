@@ -1,16 +1,47 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#111111" />
-    <link rel="manifest" href="manifest.webmanifest" />
-    <link rel="icon" href="icon-192.png" />
-    <title>Out of Pocket</title>
-    <script type="module" crossorigin src="assets/index-DeJ6pp-D.js"></script>
-    <link rel="stylesheet" crossorigin href="assets/index-VMFpPU3P.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Out of Pocket</title>
+  <meta name="theme-color" content="#111111">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="app">
+    <header class="hero">
+      <img src="./icon-192.png" class="logo" alt="Out of Pocket">
+      <div>
+        <h1>Out of Pocket</h1>
+        <p>A game for people who should probably stop talking but don’t.</p>
+      </div>
+    </header>
+
+    <div id="toast" class="toast hidden">Everything’s locked. What exactly are you hoping for here?</div>
+
+    <section class="toolbar">
+      <button id="newHand">New Hand</button>
+      <button id="swapLine">Swap Line</button>
+      <button id="swapPockets">Swap Pocket Cards</button>
+      <label><input id="voiceToggle" type="checkbox"> Voice Cards</label>
+      <label><input id="changeToggle" type="checkbox"> Pocket Change Cards</label>
+    </section>
+
+    <section id="table" class="table"></section>
+
+    <section class="result">
+      <h2>Line, please.</h2>
+      <p id="builtLine">Draw a hand to start.</p>
+      <button id="copyLine">Copy</button>
+    </section>
+
+    <details class="editorNote">
+      <summary>Customize the decks</summary>
+      <p>Edit <code>cards.json</code>. Decks are <code>lines</code>, <code>pockets</code>, <code>voices</code>, and <code>pocketChanges</code>. Line cards use <code>blanks</code>: 1 or 2.</p>
+    </details>
+  </main>
+  <script src="./app.js"></script>
+</body>
 </html>
